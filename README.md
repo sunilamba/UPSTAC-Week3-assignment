@@ -1,2 +1,3 @@
 # UPSTAC-Week3-assignment
- Assignment
+
+This is a Week3 Assignment with "LabRequestController" and ConsultationController" with methods.
